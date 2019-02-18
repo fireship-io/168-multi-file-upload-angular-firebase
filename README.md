@@ -1,17 +1,4 @@
-# Base | Angular + Firebase 
+# Concurrent Firebase File Uploads | Angular + Firebase 
 
-Foundation for Angular/Firebase lessons.
+[Upload Multiple Files to Firebase Storage](https://fireship.io/lessons/angular-firebase-storage-uploads-multi)
 
-- @angular/fire + Firebase
-- User Auth
-
-## Setup
-
-```
-git clone <this-repo>
-npm i
-ng s
-```
-
-
-Open `src/app/app.module.ts` and replace the `configPlaceholder` with your Firebase credentials 
